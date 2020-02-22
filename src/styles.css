@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: black;
+  color: red;
+  size: 100em;
+  padding: 10em;
+}
+
+button {
+  display: flex-column;
+  color: white;
+  background-color: red;
+  margin: 0.5em;
+}
